@@ -1,0 +1,10 @@
+{
+  "name": "@joap/client",
+  "version": "1.0.0",
+  "description": "A new JOAP communication system client",
+  "main": "index.js",
+  "repository": "https://github.com/AlexandreLon/JOAP",
+  "author": "Alexandre Longordo <43060105+AlexandreLon@users.noreply.github.com>",
+  "license": "MIT",
+  "private": false
+}
